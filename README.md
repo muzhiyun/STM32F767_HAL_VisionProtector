@@ -12,3 +12,7 @@
 - 学习时间自动检测，当学习时间达到45分钟时，蜂鸣器报警，灯闪，提醒使用者休息片刻。
 - LCD屏幕显示当前设置值
 
+
+整体硬件逻辑
+
+![flow_diagram](https://github.com/muzhiyun/STM32F767_HAL_VisionProtector/blob/master/flow_diagram.jpg)
